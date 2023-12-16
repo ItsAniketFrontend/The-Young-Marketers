@@ -1051,7 +1051,7 @@ footer .footer_menu{
   background: #26123c;
   padding: 50px 64px;
   margin: -155px auto 0 auto;
-  width: 80%;
+  /* width: 80%; */
 }
 
 #footer-message{

@@ -960,7 +960,6 @@ footer .footer_menu{
 }
 
 .header_about{
-  padding-bottom: 130px;
   background: linear-gradient(0deg, #471133 0%, #0b0314 100%);
 }
 
@@ -983,4 +982,40 @@ footer .footer_menu{
   border-radius: 20px;
   width: 90%;
   margin-top: -50px;
+}
+
+.ab_page{
+  background: #150725;
+}
+
+.ab_solutions{
+  padding: 15px 0 90px 0;
+}
+
+.ab-fa-hr{
+  color: #ffffff;
+}
+
+.ab-fa-hr hr{
+  opacity: 1.25;
+  height: 1px;
+  color: #ffffffbf;
+  width: 60px;
+  border: 1px solid;
+}
+
+.ab-fa-hr h6{
+  letter-spacing: 3.72px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    font-family: "Raleway", sans-serif;
+}
+
+.ab_experience{
+  background-image: url(../Images/ab_experience_bg.png);
+  background-size: cover !important;
+  background-position: center !important;
+  margin-top: -2px;
 }

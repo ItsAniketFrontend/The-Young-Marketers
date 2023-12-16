@@ -957,3 +957,29 @@ footer .footer_menu{
   line-height: 20px;
   font-family: "Raleway", sans-serif;
 }
+
+.header_about{
+  padding-bottom: 130px;
+  background: linear-gradient(0deg, #471133 0%, #0b0314 100%);
+}
+
+.header_about h2{
+  color: #ffffff;
+    text-align: center;
+    margin-top: 142px;
+    margin-bottom: 80px;
+    font-size: 45px;
+    font-weight: 800;
+    line-height: 51px;
+    font-family: "Raleway", sans-serif;
+}
+
+.about_img{
+  background: #150725;
+}
+
+.about_img img{
+  border-radius: 20px;
+  width: 90%;
+  margin-top: -50px;
+}

@@ -4,6 +4,57 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: roboto-regular;
+  src: url(../Fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: roboto-bold;
+  src: url(../Fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: roboto-medium;
+  src: url(../Fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+  font-family: roboto-light;
+  src: url(../Fonts/Roboto-Light.ttf);
+}
+
+a{
+  font-family: roboto-bold !important;
+}
+
+h1{
+  font-family: roboto-medium !important;
+}
+
+h2{
+  font-family: roboto-medium !important;
+}
+
+h3{
+  font-family: roboto-medium !important;
+}
+
+h4{
+  font-family: roboto-medium !important;
+}
+
+h5{
+  font-family: roboto-medium !important;
+}
+h6{
+  font-family: roboto-medium !important;
+}
+
+p{
+  font-family: roboto-regular !important;
+}
+
 header {
   background-image: url(../Images/Header_banner.png);
   background-position: center center;
